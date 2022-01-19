@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo1", "demo1", "{83650AC9-5916-40F7-A644-64B7E8938FED}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\4\demo\src\Demo1\ProductEdit.js = E:\Course\react\New folder\4\demo\src\Demo1\ProductEdit.js
+		E:\Course\react\New folder\4\demo\src\Demo1\ProductInfo.js = E:\Course\react\New folder\4\demo\src\Demo1\ProductInfo.js
+		E:\Course\react\New folder\4\demo\src\Demo1\ProductList.js = E:\Course\react\New folder\4\demo\src\Demo1\ProductList.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692B1090-135E-4F95-ACA1-93AEAC090F35}
+	EndGlobalSection
+EndGlobal
